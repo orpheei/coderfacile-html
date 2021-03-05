@@ -32,8 +32,8 @@ ol{
 	       border-top: none;
                border-left: none;
                border-bottom: none;
-           
-
+	       margin-right: 1000px;
+	       border:solid;
 }
 
 h4{
