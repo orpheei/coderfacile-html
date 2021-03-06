@@ -16,45 +16,61 @@ h1{ font-family: cursive;
     border-right: none;
     border-left: none;
     text-align: center;
-    font-size: 40px;
+    font-size: 50px;
     margin-left: 0px;
     box-shadow: 0px 1px 5px #CBCBCB;
 }
 
 ol{
-  margin-right:1000px;
+
 }
 
 .sommaire{ margin-left: 10px;
 	       font-size: 15px;
 	       font-family: "test3",arial,sans-sherif;
 	       line-height: 23px;
-               border-top: none;
-               border-left: none;
-               border-bottom: none;
-	       margin-right: 1000px;
-	       
+	       border: solid;
+	       border-style: outset;
+	       margin-right: 1010px;
+	       border-top: none;
+           border-left: none;
+           border-bottom: none;
+           
+
+}
+ul{
+  font-size: 15px;
+  margin-left: 10px;
+  font-size: 15px;
+  font-family: "test3",arial,sans-sherif;
+  line-height: 23px;
+  border: solid;
+  border-style: outset;
+  margin-right: 1010px;
+  border-top: none;
+  border-left: none;
+  border-bottom: none;
 }
 
 h4{
 	font-size: 25px
 }
 
-h2{ font-size: 33px ;
+h2{ font-size: 44px ;
     border: solid; ;
     border-width: 2px; 
 	border-color: #363636;
     border-right: #FFFFFF;
     border-left: #FFFFFF;
     border-top : #FFFFFF;
-    margin-right: 425px;
+    margin-right: 325px;
     margin-left: 50px; 
-    border-radius: 0px;
+    border-radius: 1px;
     
 }
 
 body{ 
-    line-height: 54px;
+    line-height: 34px;
     box-shadow: 100px 10px 10px #CBCBCB;
 }
 
@@ -85,34 +101,39 @@ iframe{
 }
 
 img{
-	box-shadow: 10px 10px 4px black;
+	
 }
+
 .fin{
   margin-left: 0px;
-	box-shadow: 0px 0px 0px black;}
+  box-shadow: 0px 0px 0px black;
+  margin-right: 500px;
+  min-height: 100px
+}
+
+.img{
+  box-shadow: 10px 10px 4px black;
+  margin-right: 170px
+}
+
 h5{ font-size: 28px; 
 
 }
 
 h6{ 
 	font-size: 20px;
-	margin-left: 90px
+	margin-left: 90px;
+  
+}
 
+h4{font-size: 20px;
+  margin-left: 90px;
+  margin-top: 200px; 
 }
 
 
-
-}
-h3{ font-size: 34px;
-    border: solid;
-    border-width: 1.5px; 
-	border-color: #363636;
-    border-top: #FFFFFF;
-    border-right: ;
-    border-left: #FFFFFF;
-    margin-right: 550px;
-    line-height: 34px;
-    border-radius: 3px;
+h3{ font-size: 30px;
+   
    
  
 }
@@ -122,16 +143,16 @@ h3{ font-size: 34px;
       margin-top: 1px; 
       box_shadow: 10px,10px,3px red;
 }*/
-h4{ font-variant:; }
+
 a{ text-decoration: none; color: #000000; }
 a:hover{ color: #3BD2E7 }
 
 div{ text-align: left; letter-spacing: normal;
     text-decoration: none;
-    margin-top: -200px;
+    margin-top: -600px;
     margin-right: 5px; 
     margin-left: 350px;
-    box-shadow: 10px 0px 3px #CBCBCB;
+   
     
 
 }
