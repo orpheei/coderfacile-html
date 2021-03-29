@@ -16,17 +16,16 @@ h1{
     border-left: none;
     text-align: center;
     font-size: 50px;
-    margin-left: 0px;
     box-shadow: 0px 1px 5px #CBCBCB;
-    margin-left: 300px;
 }
 
 ol{
 
 }
 
-.sommaire{ margin-left: 10px;
-	       font-size: 15px;
+.sommaire{ 
+	   margin-left: 10px;
+	   font-size: 15px;
 	       font-family: "test3",arial,sans-sherif;
 	       line-height: 23px;
 	       border: solid;
