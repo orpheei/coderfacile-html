@@ -1,90 +1,89 @@
-p{
-font-family: "textebody",arial,sans-sherif;
-color :#363636;
-font-size: 17px;
-line-height: 21px; 
-font-weight: ;
-margin-left: 26px
-}
 
-h1{ 
-font-family: cursive; 
-line-height: 84px;
-border-width: 1,3px; 
-border-color: #363636;
-border-top: none;
-border-right: none;
-border-left: none; 
-text-align: center;
-font-size: 50px;
-margin-left: 0px;
-box-shadow: 0px 1px 5px #CBCBCB;
+
+p{
+	font-family: "textebody",arial,sans-sherif;
+	color :#363636;
+    font-size: 17px;
+    line-height: 21px; 
+    font-weight: ;
+    margin-left: 26px
+}
+h1{ font-family: cursive; 
+	line-height: 84px;
+    border-width: 1,3px; 
+	border-color: #363636;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    text-align: center;
+    font-size: 50px;
+    margin-left: 0px;
+    box-shadow: 0px 1px 5px #CBCBCB;
 }
 
 ol{
 
 }
 
-.sommaire{ 
- margin-left: 10px;
- font-size: 15px;
- font-family: "test3",arial,sans-sherif;
- line-height: 23px;
- border: solid;
- border-style: outset;
- margin-right: 1010px;
- border-top: none;
- border-left: none;
- border-bottom: none;
+.sommaire{ margin-left: 10px;
+	       font-size: 15px;
+	       font-family: "test3",arial,sans-sherif;
+	       line-height: 23px;
+	       border: solid;
+	       border-style: outset;
+	       margin-right: 1010px;
+	       border-top: none;
+           border-left: none;
+           border-bottom: none;
            
 
 }
 ul{
- font-size: 15px;
- margin-left: 10px;
- font-size: 15px;
- font-family: "test3",arial,sans-sherif;
- line-height: 23px;
- border: solid;
- border-style: outset;
- margin-right: 1010px;
- border-top: none;
- border-left: none;
- border-bottom: none;
+  font-size: 15px;
+  margin-left: 10px;
+  font-size: 15px;
+  font-family: "test3",arial,sans-sherif;
+  line-height: 23px;
+  border: solid;
+  border-style: outset;
+  margin-right: 1010px;
+  border-top: none;
+  border-left: none;
+  border-bottom: none;
 }
 
 h4{
-font-size: 25px
+	font-size: 25px
 }
 
-h2{ 
-font-size: 44px ;
-border: solid; ;
-border-width: 2px; 
-border-color: #363636;
-border-right: #FFFFFF;
-border-left: #FFFFFF;
-border-top : #FFFFFF;
-margin-right: 325px;
-margin-left: 50px; 
-border-radius: 1px;
+h2{ font-size: 44px ;
+    border: solid; ;
+    border-width: 2px; 
+	border-color: #363636;
+    border-right: #FFFFFF;
+    border-left: #FFFFFF;
+    border-top : #FFFFFF;
+    margin-right: 325px;
+    margin-left: 50px; 
+    border-radius: 1px;
+    
 }
 
 body{ 
-line-height: 34px;
-box-shadow: 1px 10px 10px #CBCBCB;
+    line-height: 34px;
+    box-shadow: 100px 10px 10px #CBCBCB;
 }
 
 .div2{
-margin-left: 1px;
-border : solid;
-border-width: 6px; 
-border-color: #363636;
-border-right: #363636;
-border-left: #363636;
-border-top : #FFFFFF;
-margin-right: 7px;
-margin-left: 2px; 
+	   margin-left: 1px;
+	   border : solid;
+	   border-width: 6px; 
+	   border-color: #363636;
+       border-right: #363636;
+       border-left: #363636;
+       border-top : #FFFFFF;
+       margin-right: 7px;
+       margin-left: 2px; 
            
 
 
@@ -97,7 +96,7 @@ font size permet de modifier la taille du texte
 */
 
 iframe{
-box-shadow: 10px 10px 4px black;
+	box-shadow: 10px 10px 4px black;
 
 }
 
@@ -106,54 +105,54 @@ img{
 }
 
 .fin{
-margin-left: 0px;
-box-shadow: 0px 0px 0px black;
-margin-right: 500px;  
-min-height: 100px
+  margin-left: 0px;
+  box-shadow: 0px 0px 0px black;
+  margin-right: 500px;
+  min-height: 100px
 }
 
 .img{
-box-shadow: 10px 10px 4px black;
-margin-right: 170px
+  box-shadow: 10px 10px 4px black;
+  margin-right: 170px
 }
 
-h5{ 
-font-size: 28px; 
+h5{ font-size: 28px; 
+
 }
 
 h6{ 
-font-size: 20px;
-margin-left: 90px;
+	font-size: 20px;
+	margin-left: 90px;
   
 }
 
-h4{
-font-size: 20px;
-margin-left: 90px;
-margin-top: 200px; 
+h4{font-size: 20px;
+  margin-left: 90px;
+  margin-top: 200px; 
 }
 
 
-h3{ 
-font-size: 30px;
+h3{ font-size: 30px;
+   
+   
+ 
 }
+/*body{ text-align: left; letter-spacing: normal;
+      text-decoration: none;
+      margin:350px;
+      margin-top: 1px; 
+      box_shadow: 10px,10px,3px red;
+}*/
 
+a{ text-decoration: none; color: #000000; }
+a:hover{ color: #3BD2E7 }
 
-a{ 
-    text-decoration: none; 
-    box-shadow: 2px 2px 5px #CBCBCB;
-}
-a:hover{
-	color: #3BD2E7 
-}
-.home{
-	text-decoration: none
-}
-div{ 
-text-align: left; 
-letter-spacing: normal;
-text-decoration: none;
-margin-top: -600px;
-margin-right: 5px; 
-margin-left: 350px;
+div{ text-align: left; letter-spacing: normal;
+    text-decoration: none;
+    margin-top: -600px;
+    margin-right: 5px; 
+    margin-left: 350px;
+   
+    
+
 }
