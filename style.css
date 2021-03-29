@@ -140,15 +140,12 @@ font-size: 30px;
 
 
 a{ 
-text-decoration: none; 
-color: #000000; 
+    text-decoration: none; 
+    box-shadow: 2px 2px 5px #CBCBCB;
 }
 .home{
 	text-decoration: none
-}
-a:hover{ 
-color: #3BD2E7
-}
+
 .home{
 	text-decoration: none
 }
