@@ -1,14 +1,18 @@
 
 
 p{
-	font-family: "textebody",arial,sans-sherif;
-	color :#363636;
-    font-size: 17px;
-    line-height: 21px; 
-    font-weight: ;
-    margin-left: 26px
+font-family: "textebody",arial,sans-sherif;
+color :#363636;
+font-size: 17px;
+line-height: 21px; 
+font-weight: ;
+margin-left: 26px
 }
-h1{ font-family: cursive; 
+.home{
+	margin: -200px;
+}
+h1{ 
+    font-family: cursive; 
 	line-height: 84px;
     border-width: 1,3px; 
 	border-color: #363636;
