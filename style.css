@@ -143,6 +143,9 @@ a{
     text-decoration: none; 
     box-shadow: 2px 2px 5px #CBCBCB;
 }
+a:hover{
+	color: #3BD2E7 
+}
 .home{
 	text-decoration: none
 }
