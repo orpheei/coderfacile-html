@@ -146,7 +146,9 @@ color: #000000;
 a:hover{ 
 color: #3BD2E7
 }
-
+.home{
+	text-decoration: none
+}
 div{ 
 text-align: left; 
 letter-spacing: normal;
