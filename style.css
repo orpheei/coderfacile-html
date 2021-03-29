@@ -17,10 +17,10 @@ h1{
     border-top: none;
     border-right: none;
     border-left: none;
-    text-align: center;
     font-size: 50px;
     margin-left: 0px;
     box-shadow: 0px 1px 5px #CBCBCB;
+    margin-left: 300px;
 }
 
 ol{
