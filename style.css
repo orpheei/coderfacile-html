@@ -10,6 +10,18 @@ p{
     margin-right: 200px;
     margin-top: -100px;
 }
+.fin{
+margin-left: 1px;
+border : solid;
+border-width: 6px; 
+border-color: #363636;
+border-right: #363636;
+border-left: #363636;
+border-top : #FFFFFF;
+margin-right: 7px;
+margin-left: 2px; 
+    
+}
 h1{ 
     font-family: cursive; 
 	line-height: 84px;
