@@ -1,5 +1,5 @@
 p{
-  font-family: Andale Mono, monospace
+  font-family: Andale Mono, monospace;
   color :#363636;
   font-size: 17px;
   line-height: 21px; 
@@ -98,6 +98,7 @@ h2{ font-size: 44px ;
 body{ 
     line-height: 34px;
     box-shadow: 100px 10px 10px #CBCBCB;
+    font-color: #CDF8FF
 }
 
 .div2{
